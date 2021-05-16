@@ -29,6 +29,7 @@ const StyledLink = styled(Link)`
   }
   .desktop-icon {
     width: 160px;
+    height: auto;
     display: none;
     ${({ theme }) => theme.mediaQueries.nav} {
       display: block;
