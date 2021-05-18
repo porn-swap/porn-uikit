@@ -129,7 +129,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://docs.porn-swap.com",
       },
       {
         label: "Blog",
