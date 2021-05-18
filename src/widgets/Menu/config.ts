@@ -143,7 +143,7 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/pornswap",
+    href: "https://t.me/joinchat/YgTsRLPFL3hjZGRk",
   },
   {
     label: "Twitter",
